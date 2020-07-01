@@ -4,3 +4,5 @@
 
 appuser 2020-07-01T10:45:12Z DikshaTomar101 <diksha.tomar101@tothenew.com> # Creates a an application user.
 users [appuser] 2020-07-01T11:01:28Z DikshaTomar101 <diksha.tomar101@tothenew.com> # Creates table to track our users.
+insert_user [users appuser] 2020-07-01T11:13:06Z DikshaTomar101 <diksha.tomar101@tothenew.com> # Creates a function to insert a user.
+change_pass [users appuser] 2020-07-01T11:13:56Z DikshaTomar101 <diksha.tomar101@tothenew.com> # Creates a function to change a user password.
